@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shybee - Your One-Stop Shop for Affordable Clothing</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Shybee</h1>
+        <nav>
+            <ul>
+                <li><a href="#traditional">Traditional Dresses</a></li>
+                <li><a href="#modern">Modern Dresses</a></li>
+                <li><a href="#gym">Gym Outfits</a></li>
+                <li><a href="#inners">Inners</a></li>
+                <li><a href="#kids">Kids' Clothing</a></li>
+                <li><a href="#mens">Men's Clothing</a></li>
+                <li><a href="#womens">Women's Clothing</a></li>
+                <li><a href="#unisex">Unisex Collection</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- Content for different clothing categories -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Shybee. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
